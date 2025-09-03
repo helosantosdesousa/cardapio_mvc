@@ -20,7 +20,7 @@ Projeto de um Cardápio Digital completo, com backend em Java Spring Boot e fron
    ``` git clone https://github.com/helosantosdesousa/cardapio_mvc ```  
   2. Abra o projeto da pasta **```backend```** na sua IDE java
   3. Abra o projeto da pasta **```frontend```** no seu editor de código
-  4. Build e rode o projeto backend
+  4. Build e rode o projeto backend (classe ```CardapioApplication.java```
      ### A API estará disponível em:
      ```http://localhost:8080/food ```
      ### O banco de dados estará disponível em:
