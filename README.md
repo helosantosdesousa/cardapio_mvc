@@ -22,9 +22,9 @@ Projeto de um Cardápio Digital completo, com backend em Java Spring Boot e fron
   3. Abra o projeto da pasta **```frontend```** no seu editor de código
   4. Build e rode o projeto backend
      ### A API estará disponível em:
-     ```https://localhost:8080/food ```
+     ```http://localhost:8080/food ```
      ### O banco de dados estará disponível em:
-     ```https://localhost:8080/h2-console ```
+     ```http://localhost:8080/h2-console ```
      #### Login do banco de dados:
      * username: sa
      * password: (vazia)
